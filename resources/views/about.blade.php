@@ -1,8 +1,8 @@
 <x-layout> 
 <x-slot:heading>
-Welcome
+About
 </x-slot>
 <h1>
-Welcome Page
+About Page
 </h1>
 </x-layout>

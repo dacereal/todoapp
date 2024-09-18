@@ -1,8 +1,8 @@
 <x-layout> 
 <x-slot:heading>
-Welcome
+Contact
 </x-slot>
 <h1>
-Welcome Page
+Contact Page
 </h1>
 </x-layout>
